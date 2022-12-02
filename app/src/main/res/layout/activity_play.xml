@@ -129,7 +129,7 @@
         android:id="@+id/GameComment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="GameComment" />
+        android:text="Game Comment" />
 
     <Button
         android:id="@+id/continueplay"
