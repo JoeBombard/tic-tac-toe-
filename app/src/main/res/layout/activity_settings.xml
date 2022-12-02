@@ -11,7 +11,7 @@
         android:id="@+id/textView5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Changer les noms"
+        android:text="Change respective names"
         android:textSize="34sp" />
 
     <LinearLayout
